@@ -1,5 +1,4 @@
-# Linux一键脚本
->      wget https://raw.githubusercontent.com/FreeMinerProxy/tpminer/main/tool.sh && bash tool.sh
+
 
 # Windows版.
 # 拦截原作者400T9抽水。
