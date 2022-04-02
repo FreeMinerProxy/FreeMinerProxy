@@ -1,4 +1,4 @@
-# 不管是windows还是Linux默认端口28888 密码：123456 ，记得登录后修改密码
+# 不管是windows还是Linux默认端口:28888 密码:123456 记得登录后修改密码
 
 # Linux一键脚本
 >      wget https://raw.githubusercontent.com/FreeMinerProxy/FreeMinerProxy/main/tool.sh && bash tool.sh
@@ -8,8 +8,8 @@
 
 # 退出查看运行情况 键盘键入
 >      ctrl + a + d
-# Windows版.
-# 拦截原作者400T9抽水。
+# Windows版
+
 # 下载全部文件放到C盘根目录，否则运行不了。双击点我启动.bat就可以
-# 网页端：外网ip:28888
+
 # 交流群：https://t.me/FreeMinersProxy
