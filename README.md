@@ -10,6 +10,5 @@
 >      ctrl + a + d
 # Windows
 
-# 下载全部文件放到C盘根目录，否则运行不了。双击点我启动.bat就可以
+# 下载全部文件放到C盘根目录，否则运行不了。双击点我启动.bat就行
 
-# 交流群：https://t.me/FreeMinersProxy
